@@ -29,12 +29,13 @@ export default function Contact() {
             </a>
 
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/Sugapriyan21"
               target="_blank"
               rel="noreferrer"
             >
               <FaGithub />
               GitHub
+              Sugapriyan21
             </a>
 
             <a
